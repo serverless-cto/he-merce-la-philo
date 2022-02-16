@@ -1,2 +1,2 @@
 # he-merce-la-philo
-This repo is an open-source devops project about implementing a philosophy website
+This repo is an open-source project about implementing a philosophy website with modernest devops technics.
