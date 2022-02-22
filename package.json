@@ -23,7 +23,7 @@
     "eject": "react-scripts eject",
     "check:eslint": "eslint --max-warnings 0 .",
     "check:prettier": "prettier --check .",
-    "check:unused-exports": "ts-unused-exports ./tsconfig.json",
+    "check:unused-exports": "npx ts-unused-exports ./tsconfig.json",
     "check": "yarn check:unused-exports && yarn check:prettier && yarn check:eslint"
   },
   "eslintConfig": {
